@@ -1,0 +1,11 @@
+C:\Users\HBK\source\repos\localComida\localComida\bin\Release\netcoreapp3.0\localComida.exe
+C:\Users\HBK\source\repos\localComida\localComida\bin\Release\netcoreapp3.0\localComida.deps.json
+C:\Users\HBK\source\repos\localComida\localComida\bin\Release\netcoreapp3.0\localComida.runtimeconfig.json
+C:\Users\HBK\source\repos\localComida\localComida\bin\Release\netcoreapp3.0\localComida.runtimeconfig.dev.json
+C:\Users\HBK\source\repos\localComida\localComida\bin\Release\netcoreapp3.0\localComida.dll
+C:\Users\HBK\source\repos\localComida\localComida\bin\Release\netcoreapp3.0\localComida.pdb
+C:\Users\HBK\source\repos\localComida\localComida\obj\Release\netcoreapp3.0\localComida.csprojAssemblyReference.cache
+C:\Users\HBK\source\repos\localComida\localComida\obj\Release\netcoreapp3.0\localComida.AssemblyInfoInputs.cache
+C:\Users\HBK\source\repos\localComida\localComida\obj\Release\netcoreapp3.0\localComida.AssemblyInfo.cs
+C:\Users\HBK\source\repos\localComida\localComida\obj\Release\netcoreapp3.0\localComida.dll
+C:\Users\HBK\source\repos\localComida\localComida\obj\Release\netcoreapp3.0\localComida.pdb

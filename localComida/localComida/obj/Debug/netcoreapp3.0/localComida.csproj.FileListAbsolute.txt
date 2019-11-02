@@ -1,0 +1,22 @@
+E:\Cristhian\Uleam Tercer Semestre\POO\Clases\localComida\localComida\bin\Debug\netcoreapp3.0\localComida.exe
+E:\Cristhian\Uleam Tercer Semestre\POO\Clases\localComida\localComida\bin\Debug\netcoreapp3.0\localComida.deps.json
+E:\Cristhian\Uleam Tercer Semestre\POO\Clases\localComida\localComida\bin\Debug\netcoreapp3.0\localComida.runtimeconfig.json
+E:\Cristhian\Uleam Tercer Semestre\POO\Clases\localComida\localComida\bin\Debug\netcoreapp3.0\localComida.runtimeconfig.dev.json
+E:\Cristhian\Uleam Tercer Semestre\POO\Clases\localComida\localComida\bin\Debug\netcoreapp3.0\localComida.dll
+E:\Cristhian\Uleam Tercer Semestre\POO\Clases\localComida\localComida\bin\Debug\netcoreapp3.0\localComida.pdb
+E:\Cristhian\Uleam Tercer Semestre\POO\Clases\localComida\localComida\obj\Debug\netcoreapp3.0\localComida.csprojAssemblyReference.cache
+E:\Cristhian\Uleam Tercer Semestre\POO\Clases\localComida\localComida\obj\Debug\netcoreapp3.0\localComida.AssemblyInfoInputs.cache
+E:\Cristhian\Uleam Tercer Semestre\POO\Clases\localComida\localComida\obj\Debug\netcoreapp3.0\localComida.AssemblyInfo.cs
+E:\Cristhian\Uleam Tercer Semestre\POO\Clases\localComida\localComida\obj\Debug\netcoreapp3.0\localComida.dll
+E:\Cristhian\Uleam Tercer Semestre\POO\Clases\localComida\localComida\obj\Debug\netcoreapp3.0\localComida.pdb
+C:\Users\HBK\Downloads\localComida\localComida\bin\Debug\netcoreapp3.0\localComida.exe
+C:\Users\HBK\Downloads\localComida\localComida\bin\Debug\netcoreapp3.0\localComida.deps.json
+C:\Users\HBK\Downloads\localComida\localComida\bin\Debug\netcoreapp3.0\localComida.runtimeconfig.json
+C:\Users\HBK\Downloads\localComida\localComida\bin\Debug\netcoreapp3.0\localComida.runtimeconfig.dev.json
+C:\Users\HBK\Downloads\localComida\localComida\bin\Debug\netcoreapp3.0\localComida.dll
+C:\Users\HBK\Downloads\localComida\localComida\bin\Debug\netcoreapp3.0\localComida.pdb
+C:\Users\HBK\Downloads\localComida\localComida\obj\Debug\netcoreapp3.0\localComida.csprojAssemblyReference.cache
+C:\Users\HBK\Downloads\localComida\localComida\obj\Debug\netcoreapp3.0\localComida.AssemblyInfoInputs.cache
+C:\Users\HBK\Downloads\localComida\localComida\obj\Debug\netcoreapp3.0\localComida.AssemblyInfo.cs
+C:\Users\HBK\Downloads\localComida\localComida\obj\Debug\netcoreapp3.0\localComida.dll
+C:\Users\HBK\Downloads\localComida\localComida\obj\Debug\netcoreapp3.0\localComida.pdb
